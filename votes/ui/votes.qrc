@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="votes">
+    <file>images/banana_small.png</file>
+    <file>images/chocolate_small.png</file>
+    <file>images/lemon_small.png</file>
+  </qresource>
+</RCC>

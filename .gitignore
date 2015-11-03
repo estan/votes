@@ -1,0 +1,4 @@
+.idea
+votes.egg-info
+*.pyc
+.crossbar/node.pid

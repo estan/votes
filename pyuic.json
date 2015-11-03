@@ -1,0 +1,16 @@
+{
+    "files": [
+        [
+            "votes/ui/*.ui",
+            "votes/ui"
+        ],
+        [
+            "votes/ui/*.qrc",
+            "votes/ui"
+        ]
+    ], 
+    "pyrcc": "pyrcc5", 
+    "pyrcc_options": "", 
+    "pyuic": "pyuic5", 
+    "pyuic_options": "--from-import"
+}
